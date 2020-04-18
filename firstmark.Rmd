@@ -1,0 +1,30 @@
+---
+title: "firstmark"
+author: "sg-99"
+date: "18/04/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Who am I?
+Man has been trying to answer **this** question since times immemorial: "Who am *I*?"
+```{r}
+print("Why?")
+```
+
+- Human?
+- Demigod?
+- Animal?
+
+
+## Answer
+**Nobody needs to answer it anyway!**
+
+
+
+
+
+### We dont have to answer that question. We just have to perform our duties instead of asking such questions. 
